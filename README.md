@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<ul>
+  <li>:computer:I'm currently working as Software Engineer with Java</li>
+  <li>:rocket:I'm currently learning clean code, system design and a bit of machine learning</li>
+  <li>📫How to reach me: <a href="https://www.linkedin.com/in/rezkyal/" target="_blank">LinkedIn</a> or <a href="mailto:rezkyal2@gmail.com?subject=[GitHub]" target="_blank">Mail me</a></li>
+</ul>
+
+![Cat](https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 <!--
 **rezkyal/rezkyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
